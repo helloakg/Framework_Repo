@@ -53,6 +53,7 @@ public class contactModuleTest {
 		System.out.println("--Regression: Executing edit contact---");
 		System.out.println("--Open Browser---");
 		System.out.println("--Edit Contact---");
+		System.out.println("--Contact Edited---");
 		System.out.println("--Close Browser---");
 		System.out.println("--Ending edit contact---\n");
 		//Assert.fail();
